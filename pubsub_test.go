@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func TestRemote(t *testing.T) {
+func Test(t *testing.T) {
 	pb := NewPubSub()
 	TestSubscribe(t, pb)
 	pb.Close()

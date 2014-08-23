@@ -1,8 +1,8 @@
 package pubsub_test
 
 import (
-    . "github.com/puffinframework/local.pubsub"
-    . "github.com/puffinframework/pubsub/impltests"
+	. "github.com/puffinframework/local.pubsub"
+	. "github.com/puffinframework/pubsub/impltests"
 	"testing"
 )
 
